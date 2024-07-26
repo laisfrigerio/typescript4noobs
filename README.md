@@ -12,7 +12,7 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 
 ## Conteúdo
 
-1. Do JavaScript ao TypeScript
+1. [Do JavaScript ao TypeScript](./conteudo/001-o-que-e-typescript.md)
 2. Instalando o TypeScript e configurando o ambiente
 3. Introdução ao sistema de tipos
 4. Tipos mais comuns
