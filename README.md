@@ -13,7 +13,7 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 ## Conteúdo
 
 1. [Do JavaScript ao TypeScript](./conteudo/001-o-que-e-typescript.md)
-2. Instalando o TypeScript e configurando o ambiente
+2. [Instalando o TypeScript e configurando o ambiente](./conteudo/002-instalacao.md)
 3. Introdução ao sistema de tipos
 4. Tipos mais comuns
 5. Types e Interfaces
@@ -25,8 +25,8 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 
 ## 👩 Author
 
-| [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://instagram.com/laisfrigerio)<br /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## 📄 License
 
