@@ -14,8 +14,8 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 
 1. [Do JavaScript ao TypeScript](./conteudo/001-o-que-e-typescript.md)
 2. [Instalando o TypeScript e configurando o ambiente](./conteudo/002-instalacao.md)
-3. Introdução ao sistema de tipos
-4. Tipos mais comuns
+3. [Introdução ao sistema de tipos](./conteudo/003-sistema-de-tipos.md)
+4. [Tipos mais comuns](./conteudo/004-tipos-comuns.md)
 5. Types e Interfaces
 6. Classes e Objetos
 7. Funções
