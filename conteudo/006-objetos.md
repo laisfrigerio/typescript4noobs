@@ -1,4 +1,4 @@
-# Objetos
+# Objetos & Types
 
 Um `objeto` é uma entidade que representa uma coleção de propriedades e métodos:
 
