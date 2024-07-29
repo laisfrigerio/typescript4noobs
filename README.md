@@ -22,8 +22,7 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 8. [Classes](./conteudo/008-classes.md)
 9. [Funções](./conteudo/009-funcoes.md)
 10. [Enums](./conteudo/010-enums.md)
-11. Genéricos
-12. Decorators
+11. [Genéricos](./conteudo/011-generico.md)
 
 ## 👩 Author
 
