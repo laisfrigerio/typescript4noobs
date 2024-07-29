@@ -20,7 +20,7 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 6. [Objetos e Types](./conteudo/006-objetos-e-types.md)
 7. [Interfaces](./conteudo/007-interfaces.md)
 8. [Classes](./conteudo/008-classes.md)
-9. Funções
+9. [Funções](./conteudo/009-funcoes.md)
 10. Tipos Avançados
 11. Genéricos
 12. Decorators
