@@ -61,6 +61,8 @@ anything = "Anything...";
 anything = [1, 2];
 ```
 
+> Permitir o uso do tipo any de forma geral, invalida parcialmente a finalidade da verificação de tipos do TypeScript. O TypeScript funciona melhor quando ele sabe que tipos os valores devem ter.
+
 ### Void
 
 O tipo `void`, geralmente utilizado no retorno de funções, representa uma função que não retorna nenhum valor em especifíco, ou seja, não retorna nada:

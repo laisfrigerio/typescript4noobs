@@ -16,12 +16,13 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 2. [Instalando o TypeScript e configurando o ambiente](./conteudo/002-instalacao.md)
 3. [Introdução ao sistema de tipos](./conteudo/003-sistema-de-tipos.md)
 4. [Tipos mais comuns](./conteudo/004-tipos-comuns.md)
-5. Types e Interfaces
-6. Classes e Objetos
-7. Funções
-8. Tipos Avançados
-9. Genéricos
-10. Decorators
+5. [Tipos de erros mais comuns](./conteudo/005-tipos-de-erros.md)
+6. Types e Interfaces
+7. Classes e Objetos
+8. Funções
+9. Tipos Avançados
+10. Genéricos
+11. Decorators
 
 ## 👩 Author
 
