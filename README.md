@@ -18,7 +18,7 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 4. [Tipos mais comuns](./conteudo/004-tipos-comuns.md)
 5. [Tipos de erros mais comuns](./conteudo/005-tipos-de-erros.md)
 6. [Objetos e Types](./conteudo/006-objetos.md)
-7. Interfaces
+7. [Interfaces](./conteudo/007-interfaces.md)
 8. Classes
 9. Funções
 10. Tipos Avançados
