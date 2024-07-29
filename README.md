@@ -1,11 +1,15 @@
 # typescript4noobs
 
+<p align="center">
+  <a><img src="./assets/code4noobs.jpg" alt="Logotipo com o texto Code4Noobs" title="Logotipo com o texto Code4Noobs"></a>
+</p>
+
 Este projeto é dedicado a todos os estudantes e profissionais da área de tecnologia que desejam iniciar sua jornada no universo TypeScript.
 
 Todos os exemplos mencionados neste artigo podem ser testados no playground online oficial, caso você prefira não baixar nada. Além do mais, o conteúdo desse repositório é baseado na leitura do livro `Aprendendo TypeScript` de Josh Goldberg.
 
 <p align="center">
-  <a><img src="./assets/livro-capa-aprendendo-typescript.jpg" alt="Agregador de links" title="Agregador de links"></a>
+  <a><img src="./assets/livro-capa-aprendendo-typescript.jpg" alt="Capa do livro Aprendendo TypeScript do autor Josh Goldberg" title="Capa do livro Aprendendo TypeScript do autor Josh Goldberg"></a>
 </p>
 
 > Caso você tenha interesse em adquirir o livro, [acesse este link de afiliado da Amazon](https://amzn.to/3Sp3Kfk)!
