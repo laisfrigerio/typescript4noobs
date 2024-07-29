@@ -6,10 +6,16 @@ Você pode executar o TypeScript em seu computador contanto que tenha o NodeJS i
 node -v
 ```
 
-Para instalar a última versão do TypeScript globalmente, execute o comando a seguir:
+Para instalar a última versão do TypeScript globalmente, execute o comando a seguir com `npm`:
 
 ```sh
 npm install -g typescript
+```
+
+Ou com `yarn`:
+
+```sh
+yarn add -D typescript
 ```
 
 Agora você pode executar o TypeScript na linha de comando usando o comando `tsc` (**T**ype**S**cript **C**ompiler - Compilador TypeScript).
