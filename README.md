@@ -17,12 +17,13 @@ Todos os exemplos mencionados neste artigo podem ser testados no playground onli
 3. [Introdução ao sistema de tipos](./conteudo/003-sistema-de-tipos.md)
 4. [Tipos mais comuns](./conteudo/004-tipos-comuns.md)
 5. [Tipos de erros mais comuns](./conteudo/005-tipos-de-erros.md)
-6. Types e Interfaces
-7. Classes e Objetos
-8. Funções
-9. Tipos Avançados
-10. Genéricos
-11. Decorators
+6. [Objetos](./conteudo/006-objetos.md)
+7. Classes
+8. Types e Interfaces
+9. Funções
+10. Tipos Avançados
+11. Genéricos
+12. Decorators
 
 ## 👩 Author
 
